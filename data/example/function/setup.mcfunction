@@ -1,0 +1,2 @@
+scoreboard objectives add ga_eaten minecraft.used:minecraft.enchanted_golden_apple
+scoreboard objectives add deathreset deathCount
